@@ -14,7 +14,7 @@ x_score_multiplier = 4
 y_score_multiplier = 4
 
 # Threshold of how close scores should be to average between frames
-threshold = .5
+threshold = .3
 
 #################################################################################
 
